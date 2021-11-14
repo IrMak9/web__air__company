@@ -46,12 +46,13 @@ header {
 .menu__name {
     font-size: 14px; 
     text-decoration: none;
+    transition: all .5s;
 }
 .menu__name:hover{
     color: 
     #DA0100;
     text-decoration: none;
-    transition: all .5s;
+    
 }
 .contacts {
     font-style: normal;
