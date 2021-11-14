@@ -94,6 +94,7 @@
     border:2px solid #F5170E;
     padding: 18px 30px;
     border-radius: 30px;
+    transition: all .3s;
      
 }
 .tours__btn--white:hover {

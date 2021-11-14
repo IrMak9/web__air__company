@@ -21,8 +21,8 @@
     flex-direction: column;
     align-items: center;
 }
-.welcome__container-pic {
-    height: 248px;
+.welcome__container {
+    min-height: 248px;
     width: 591px;
     background: url("../pic/shades.png") no-repeat;
    

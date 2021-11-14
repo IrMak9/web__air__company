@@ -21,7 +21,7 @@
     flex-direction: column;
     justify-content: space-between;
 }
-.serv__title {
+.container__serv-title {
     font-size: 72px;
     line-height: 1;
     font-weight: 700;

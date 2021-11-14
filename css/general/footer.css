@@ -43,6 +43,7 @@
 .menu__item-end {
     font-size: 14px; 
     text-decoration: none;
+    transition: all .7s;
 }
 .menu__item-end:hover{
     text-decoration: none;
@@ -53,8 +54,6 @@
 }
 .social__item {
     display: inline-block;
-    height: 36px;
-    width: 36px;
     margin-right: 10px;
     
     
@@ -65,32 +64,33 @@
     width: 36px;
 }
 .social__item-telegram .social__item-pic {
-    background-image: url("../../pic/telegram.png");
+    background: url("../../pic/css_sprites.png") -122px -66px;
 }
 .social__item-telegram .social__item-pic:hover {
-    background-image: url("../../pic/t1.png");
+    
+    background: url("../../pic/css_sprites.png") -122px -10px;
     
 }
 .social__item-vk .social__item-pic {
-    background-image: url("../../pic/vk.png");
+    background: url("../../pic/css_sprites.png") -10px -122px;
 }
 .social__item-vk .social__item-pic:hover {
-    background-image: url("../../pic/vk1.png");
     
+    background: url("../../pic/css_sprites.png") -66px -122px;
 }
 .social__item-fb .social__item-pic {
-    background-image: url("../../pic/f.png");
+    background: url("../../pic/css_sprites.png") -10px -10px;
 }
 .social__item-fb .social__item-pic:hover {
-    background-image: url("../../pic/f1.png");
     
+    background: url("../../pic/css_sprites.png") -66px -10px;
 }
 .social__item-inst .social__item-pic {
-    background-image: url("../../pic/in.png");
+    background: url("../../pic/css_sprites.png") -10px -66px;
 }
 .social__item-inst .social__item-pic:hover {
-    background-image: url("../../pic/in1.png");
     
+    background: url("../../pic/css_sprites.png") -66px -66px;
 }
 .contacts__end {
     bottom:57px;
