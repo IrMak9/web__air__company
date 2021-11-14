@@ -43,7 +43,7 @@
 .menu__item-end {
     font-size: 14px; 
     text-decoration: none;
-    transition: all .7s;
+    
 }
 .menu__item-end:hover{
     text-decoration: none;

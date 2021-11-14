@@ -51,6 +51,7 @@ header {
     color: 
     #DA0100;
     text-decoration: none;
+    transition: all .5s;
 }
 .contacts {
     font-style: normal;
